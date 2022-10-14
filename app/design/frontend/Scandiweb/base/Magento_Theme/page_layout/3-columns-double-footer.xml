@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<layout xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_layout.xsd">
+    <update handle="1column"/>
+    <!-- <referenceContainer name="after.body.start">
+        <container name="free-shipping" as="free-shipping" label="Free Shipping" htmlTag="div" htmlClass="free-shipping">
+            <container name="free-shipping-content" as="free-shipping-content" htmlTag="div" htmlClass="free shipping content" />
+        </container>
+    </referenceContainer> -->
+</layout>
