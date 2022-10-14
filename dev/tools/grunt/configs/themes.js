@@ -31,9 +31,9 @@ module.exports = {
         ],
         dsl: 'less'
     },
-    luma: {
+    scandiwebbase: {
         area: 'frontend',
-        name: 'Magento/luma',
+        name: 'Scandiweb/base',
         locale: 'en_US',
         files: [
             'css/styles-m',
